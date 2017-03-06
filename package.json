@@ -1,0 +1,13 @@
+{
+  "name": "api_tester",
+  "version": "1.0.0",
+  "description": "tests API",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "electron main.js"
+  },
+  "author": "sachin",
+  "license": "ISC"
+}

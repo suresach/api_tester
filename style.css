@@ -1,0 +1,17 @@
+body {
+    background-color: rgba(0, 116, 217, 0.62);
+}
+
+#home_function {
+    margin: 0 auto;
+    display: table;
+    position: relative;
+    top: 23vw;
+    /*transform: translateY(-50%);*/
+}
+#add_new_profile_fields input{
+	position: relative;
+	width: 15vw;
+    margin: 0 auto;
+    top: 23vw;
+}
